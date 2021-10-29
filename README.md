@@ -1,40 +1,60 @@
+<h1>007Spam-BOT </h1>
+<p><a href="https://github.com/mrwn007/007spam-BOT"><img  style="max-width:100%;"></a>
+<a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
+<a href="https://github.com/mrwn007/007spam-BOT"><img src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" alt="Build" data-canonical-src="https://img.shields.io/badge/Supported%20OS-Linux%2FWindows-brightgreengreen.svg" style="max-width:100%;"></a></p>
+<p><h1>Auto report Instagram accounts ( SPAM BOT ) 😈 </h1>
+<br> ⚠️Note! : We don't Accept any responsibility for any illegal usage.</p>
 
-# Spymer
-SMS-спамер<br>
-Только для России!<br><i> (но можете попробовать и для Украины и других странах СНГ)</i><br>
-# Приму в дар деньги на пиво! 
- Visa - 4149 4991 4453 6586 
-<i>Free programmers also need to eat :)</i>
-<br>
-# Как установить?
-<b>Тупо следуйте инструкции...</b><br>
-<b>Если у вас Android/<b> - скачать <a href="https://play.google.com/store/apps/details?id=com.termux&hl=ru">Termux из Google Play</a>, открыть его и прописать команды ниже:<br>
-• <code>apt update</code><br>
-• <code>apt upgrade</code><br>
-• <code>apt install git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
-• <code>sh ~/spymer/install.sh</code><br>
-• <code>spymer</code><br>
+<h2>007spam-BOT</h2>
 
-<b>Если у вас iOS</a> - скачать <a href="https://apps.apple.com/ru/app/testflight/id899247664">Testflight из App Store</a>, после чего присоедениться к тестированию <a href="https://testflight.apple.com/join/97i7KM8O">iSH в Testflight</a> и прописать команды ниже:<br>
-• <code>apk update</code><br>
-• <code>apk upgrade</code><br>
-• <code>apk add git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
-• <code>sh ~/spymer/install.sh</code><br>
-• <code>spymer</code><br>
-<br>
-Установка на Linux аналогична установке на Android, только без Termux'a, достаточно прав SU и терминала.<br>
-За инструкцию для iOS спасибо <a href="https://github.com/botduck">BOTDUCK</a>.
-<br><br>
-Будут вопросы - контакты выше.<br>
-<b>Приятного пользования!</b>
-<br><br>
 
-# For Windows (NEW)
-Скачать и запустить:<br>
-https://fsystem88.ru/programs/spammer.exe
+<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
 
-# LICENSE
-Лицензия: MPL-2.0<br>
-Глаголит она о том, что если у вас будут хоть какие то проблемы с законом, то <b>эти проблемы остаются вашими</b>, ибо я всего лишь программист, а вы использовали мою программу в своих корыстных целях!
+
+
+
+<h2>Usage</h2>
+
+<h2>Example</h2>
+<p>run the tool with this command<p>
+<code>python3 bot.py</code>
+
+<h2>💬 Contact</h2>
+<li>You Want Ask About Any Thing Add Me On Discord : @marwan.007#3936</li>
+<hr>
+
+## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+
+```bash
+git clone https://github.com/mrwn007/007spam-BOT.git
+cd 007spam-BOT
+pip install requests
+python bot.py
+```
+
+
+## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
+
+Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+
+```bash
+pkg install git
+pkg install python
+git clone https://github.com/mrwn007/007spam-BOT.git
+cd 007spam-BOT
+python3 -m pip install requests
+python3 bot.py
+```
+
+## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
+```bash
+Download python3
+Download 007spam-BOT
+Extract 007spam-BOT into Desktop
+Open CMD and type the following commands:
+cd Desktop/007spam-BOT-master/
+python -m pip install requests
+bot.bat 
+```
+<h2>Version</h2>
+<strong>Current version is 0.0.1</strong>
