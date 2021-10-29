@@ -1,57 +1,37 @@
-<h1>007Spam-BOT </h1>
-<p><h1>Auto report Instagram accounts ( SPAM BOT ) 😈 </h1>
-<br> ⚠️Note! : We don't Accept any responsibility for any illegal usage.</p>
- 
-<h2>007spam-BOT</h2>
+# BoMbEr sms|email|WhatsApp|dos attack ![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 
+Install:
 
-<img src="https://i.imgur.com/CifoNw5.jpg" data-canonical-src="https://www.youtube.com/watch?v=JX7fg5HrrSE&t=95s" style="max-width:100%;">
+You must have chrome driver installed: https://chromedriver.chromium.org
 
+git clone https://github.com/HuErGa/BoMbEr
 
+cd BoMbEr
 
+python3 BoMbEr.py
 
-<h2>Usage</h2>
+Join my discord server https://discord.gg/c-h-i-l-l
 
-<h2>Example</h2>
-<p>run the tool with this command<p>
-<code>python3 bot.py</code>
+If you want to support me, you can send money to my qiwi: qiwi.com/n/HERAMANT
 
-<h2>💬 Contact</h2>
-<li>You Want Ask About Any Thing Add Me On Discord : @marwan.007#3936</li>
-<hr>
+Authors:
 
-## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
+https://github.com/HuErGa
 
-```bash
-git clone https://github.com/mrwn007/007spam-BOT.git
-cd 007spam-BOT
-pip install requests
-python bot.py
-```
+https://github.com/ncorbuk
 
+https://github.com/cludeex
 
-## Installation [Android](https://wikipedia.org/wiki/Android) [![alt tag](https://cdn1.iconfinder.com/data/icons/logotypes/32/android-32.png)](https://fr.wikipedia.org/wiki/Android)
+https://github.com/Nikait
 
-Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+My other works:
 
-```bash
-pkg install git
-pkg install python
-git clone https://github.com/mrwn007/007spam-BOT.git
-cd 007spam-BOT
-python3 -m pip install requests
-python3 bot.py
-```
+https://github.com/HuErGa/BOMBER2.0
 
-## Installation [Windows ](https://wikipedia.org/wiki/Microsoft_Windows)[![alt tag](http://icons.iconarchive.com/icons/tatice/cristal-intense/32/Windows-icon.png)](https://fr.wikipedia.org/wiki/Microsoft_Windows)
-```bash
-Download python3
-Download 007spam-BOT
-Extract 007spam-BOT into Desktop
-Open CMD and type the following commands:
-cd Desktop/007spam-BOT-master/
-python -m pip install requests
-bot.bat 
-```
-<h2>Version</h2>
-<strong>Current version is 0.0.1</strong>
+https://github.com/HuErGa/MassEmailMailing
+
+https://github.com/HuErGa/pasgen
+
+https://github.com/HuErGa/DiscordMusicBot
+
+https://github.com/HuErGa/discord_bot_constructor
